@@ -1,6 +1,11 @@
+*{
+    margin: 0;
+}
+
 body{
     font-family: 'Barlow', sans-serif; ;
 }
+
 header{
     background-image: url('../img/gradient-dark-blue-futuristic-digital-background.jpg');
     background-size: cover;
@@ -9,6 +14,14 @@ header{
     height: 200px;
     
 
+}
+
+main{
+    padding-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    line-height: 25px;
+    margin-bottom: 20px;
 }
 
 .img-personal {
@@ -28,15 +41,12 @@ header h2 {
     color: white;
     margin: 0%;
     letter-spacing: 10px;
-    
-   
-    
-    
+
 }
 
 .personal {
     background-color:#9fb9e7;
-    padding-top: 50px;
+    padding-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -58,6 +68,77 @@ div a {
     
 }
 
+.block {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.ep-title{
+    font-weight: bold;
+}
+
+section h3 {
+    background-color: #00376B;
+    text-align: center;
+    color: white;
+    align-items: center;
+    line-height: 50px;
+    letter-spacing: 5px;
+    border-radius: 10px;
+}
+
+.block-info {
+    margin-top: 20px;
+}
+
+.hq {
+    padding-left: 50px;
+}
+
+.hq1 {
+    padding-left: 35px;
+}
+.hq2 {
+    padding-left: 62px;
+}
+.hq3 {
+    padding-left: 82px;
+}
+.hq4 {
+    padding-left: 35px;
+}
+.hq5 {
+    padding-left: 52px;
+}
+.hq6 {
+    padding-left: 55px;
+}
+
+.idiom {
+    padding-left: 30px;
+}
+
+.idiom1 {
+    padding-left: 48px;
+}
+
+.idiom2 {
+    padding-left: 34px;
+}
+
+footer{
+   background-color: #9fb9e7; 
+   height: 50px;
+}
+
+.icons {
+    color: #00376B;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 3px;
+    letter-spacing: 20px;
+    
+}
 
 
 
