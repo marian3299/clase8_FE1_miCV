@@ -20,7 +20,7 @@ main{
     padding-top: 150px;
     margin-left: 300px;
     margin-right: 300px;
-    line-height: 25px;
+    line-height: 30px;
     margin-bottom: 20px;
 }
 
@@ -68,6 +68,9 @@ div a {
     
 }
 
+.datos-personales{
+    font-weight: bold;
+}
 .block {
     margin-top: 20px;
     font-size: 20px;
