@@ -35,10 +35,11 @@ header h2 {
 
 main{
     
-    margin: 30px 200px 0px 200px;
+    margin: 30px 200px 30px 200px;
 }
 
 main p {
     font-size: 35px;
     margin-top: 20px;
+
 }
