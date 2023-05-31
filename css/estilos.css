@@ -135,13 +135,23 @@ footer{
 }
 
 .icons {
+    
     color: #00376B;
     font-size: 35px;
     text-align: center;
     padding-top: 3px;
     letter-spacing: 20px;
     
+    
 }
+
+footer p a {
+    color: #00376B;
+}
+
+
+
+
 
 
 

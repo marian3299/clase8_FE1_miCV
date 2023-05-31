@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    font-family: 'Barlow', sans-serif; ;;
+}
+
+header{
+    background-image: url('../img/gradient-dark-blue-futuristic-digital-background.jpg');
+    background-size: cover;
+    position: relative;
+    background-position: center center;
+    height: 200px;
+    
+
+}
+
+.img-personal {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.imgp {
+    height: 180px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+header h2 {
+    text-align: center;
+    background-color: #00376B;
+    color: white;
+    margin: 0%;
+    letter-spacing: 10px;
+
+}
+
+main{
+    
+    margin: 30px 200px 0px 200px;
+}
